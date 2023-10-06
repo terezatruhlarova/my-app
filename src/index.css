@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background-color: rgb(243, 211, 231);
+  background-color: rgb(165, 165, 165);
   max-width: 38rem;
   padding: 2rem;
   align-items: center;
@@ -23,9 +23,9 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 35px;
+  font-size: 32px;
   justify-content: center;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 .btn{
   color: black;
@@ -39,5 +39,5 @@ h1 {
   color: black;
 }
 .list-group-items{
-  color: rgb(109, 0, 136);
+  color: rgb(0, 0, 0);
 }
